@@ -1,0 +1,37 @@
+body {
+	font-family: 'Nunito', sans-serif;
+}
+
+.header{
+	background-image: url('../img/top-banner.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+
+.carousel-inner {
+	max-height: 600px;
+}
+
+.icon-alien {
+	width: 150px;
+	height: 150px;
+}
+
+.card img {
+	height: 250px;
+}
+
+.icon {
+	display: block;
+	fill: #6c757d;
+	width: 25px;
+	height: 25px;
+}
+
+.icon:hover {
+	fill: #ffc107;
+}
+
